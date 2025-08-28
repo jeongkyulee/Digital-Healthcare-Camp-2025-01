@@ -1,0 +1,163 @@
+=== Metrics for All Models ===
+--- Metrics for Model: KNeighborsUnif_BAG_L1 ---
+Accuracy : 0.5875
+Precision: 0.4615
+Recall   : 0.6000
+F1 Score : 0.5217
+ROC-AUC  : 0.6377
+--- Metrics for Model: KNeighborsDist_BAG_L1 ---
+Accuracy : 0.6375
+Precision: 0.5143
+Recall   : 0.6000
+F1 Score : 0.5538
+ROC-AUC  : 0.6763
+--- Metrics for Model: RandomForestGini_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: RandomForestEntr_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: CatBoost_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: ExtraTreesGini_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: ExtraTreesEntr_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: XGBoost_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 0.9987
+--- Metrics for Model: NeuralNetTorch_BAG_L1 ---
+Accuracy : 0.9625
+Precision: 0.9355
+Recall   : 0.9667
+F1 Score : 0.9508
+ROC-AUC  : 0.9987
+--- Metrics for Model: CatBoost_r177_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: NeuralNetTorch_r79_BAG_L1 ---
+Accuracy : 0.9625
+Precision: 0.9355
+Recall   : 0.9667
+F1 Score : 0.9508
+ROC-AUC  : 0.9987
+--- Metrics for Model: CatBoost_r9_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: NeuralNetTorch_r22_BAG_L1 ---
+Accuracy : 0.9750
+Precision: 0.9667
+Recall   : 0.9667
+F1 Score : 0.9667
+ROC-AUC  : 0.9987
+--- Metrics for Model: XGBoost_r33_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: ExtraTrees_r42_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: CatBoost_r137_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: CatBoost_r13_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: RandomForest_r195_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: XGBoost_r89_BAG_L1 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 1.0000
+--- Metrics for Model: WeightedEnsemble_L2 ---
+Accuracy : 0.9625
+Precision: 0.9355
+Recall   : 0.9667
+F1 Score : 0.9508
+ROC-AUC  : 0.9987
+--- Metrics for Model: RandomForestGini_BAG_L2 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 0.9987
+--- Metrics for Model: RandomForestEntr_BAG_L2 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 0.9987
+--- Metrics for Model: CatBoost_BAG_L2 ---
+Accuracy : 0.9750
+Precision: 0.9667
+Recall   : 0.9667
+F1 Score : 0.9667
+ROC-AUC  : 0.9987
+--- Metrics for Model: ExtraTreesGini_BAG_L2 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 0.9987
+--- Metrics for Model: ExtraTreesEntr_BAG_L2 ---
+Accuracy : 0.9875
+Precision: 1.0000
+Recall   : 0.9667
+F1 Score : 0.9831
+ROC-AUC  : 0.9987
+--- Metrics for Model: XGBoost_BAG_L2 ---
+Accuracy : 0.9625
+Precision: 0.9355
+Recall   : 0.9667
+F1 Score : 0.9508
+ROC-AUC  : 0.9827
+--- Metrics for Model: WeightedEnsemble_L3 ---
+Accuracy : 0.9625
+Precision: 0.9355
+Recall   : 0.9667
+F1 Score : 0.9508
+ROC-AUC  : 0.9987
